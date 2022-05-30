@@ -22,8 +22,9 @@ were we will be happy to help you! FIXME 💢
 
 
 > ## Frequently Asked Questions
-> Read our [FAQ](/comparative-genomics-workshop/faq/) to learn more about Data Carpentry's Metagenomics workshop, as an Instructor or a workshop host.
-{: .callout} FIX [FAQ](/comparative-genomics-workshop/faq/) 💢
+> Read our [FAQ](/comparative-genomics-workshop/faq/) to learn more about Data Carpentry's Metagenomics workshop, 
+> as an Instructor or a workshop host. FIX [FAQ](/comparative-genomics-workshop/faq/) 💢
+{: .callout} 
 
 > ## Getting Started
 >
