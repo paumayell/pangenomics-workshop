@@ -1,3 +1,9 @@
+Symbols: 
+  💢 where there are things to fix
+  ❓ where there is information that needs to be verified
+  ✳️ where the thing in the page is correct but what it talks about must be developed
+
+
 Zenodo link: FIXME :anger:. Example: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4285900.svg)](https://doi.org/10.5281/zenodo.4285900)
 
 # Comparative Genomics Workshop
