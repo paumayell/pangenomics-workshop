@@ -29,7 +29,7 @@ Current maintainers of this lesson are
 
 ## Authors
 
-The Metagenomics workshop overview is authored and maintained by the [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members). FIX [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members) :anger:
+The Comparative Genomics Workshop Overview is authored and maintained by the [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members). FIX [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members) :anger:
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS) FIX [AUTHORS](AUTHORS) :anger:
 
