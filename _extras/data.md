@@ -5,6 +5,8 @@ title: Data
 
 # Features of the dataset  
 Six genomes of _Streptococcus agalactiae_
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6595387.svg)](https://doi.org/10.5281/zenodo.6595387)
+
 
 
 # Introduction to the dataset  
