@@ -6,9 +6,9 @@ Symbols:
 
 Zenodo link: FIXME :anger:. Example: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4285900.svg)](https://doi.org/10.5281/zenodo.4285900)
 
-# Comparative Genomics Workshop
+# Comparative Bacterial Genomics Workshop
 
-Overview page of the Comparative Genomics Workshop that comprises the lessons:
+Overview page of the Comparative Bacterial Genomics Workshop that comprises the lessons:
 
 - [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/)
 - [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/)
