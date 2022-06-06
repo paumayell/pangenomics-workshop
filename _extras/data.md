@@ -4,12 +4,11 @@ title: Data
 ---
 
 # Features of the dataset  
+Six genomes of _Streptococcus agalactiae_
 
-FIXME 💢
 
 # Introduction to the dataset  
-
-FIXME 💢
+In 2005 Tettelin and collaborators were working in a vaccine against _Streptococcus agalactiae_, the organism responsible of the main cause of nenonatal infections in humans. When comparing these six genomes, it was discovered that a single genome does nos contain all the genetic repertoir of a species. These data lead to the aknowledge of the inter-species genomic variation. The genetic content was described as the pan-genome consisting of a core genome shared by all isolates, plus a dispensable genome consisting of partially shared and strain-specific genes.
 
 ## References  
 
