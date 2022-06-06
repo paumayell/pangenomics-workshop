@@ -4,12 +4,10 @@ title: Data
 ---
 
 # Features of the dataset  
-Six genomes of _Streptococcus agalactiae_
-Current doi  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6595388.svg)](https://doi.org/10.5281/zenodo.6595388)
 
-Permanent doi  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6595387.svg)](https://doi.org/10.5281/zenodo.6595387)
+The dataset consist of six genomes of _Streptococcus agalactiae_ . The nucleotide files analized in this lesson are available 
+in the DDBJ/EMBL/GenBank database with accession nos. AAJO01000000 (18RS21), AAJP01000000 (515), AAJQ01000000 (CJB111), AAJR01000000 (COH1), AAJS01000000 (H36B), and CP000114 (A909). Also, these sequences has been deposited in Zenodo with permanent doi:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284)
 
 
 
