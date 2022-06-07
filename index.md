@@ -30,7 +30,7 @@ Interested in teaching these materials? We have an
 >
 > This lesson assumes that learners have no prior experience with the tools covered in the workshop. 
 > However, learners are expected to have some familiarity with biological concepts,
-> including the concepts of prokariotic genome and metabolite. 
+> including the concepts of prokariotic genome, biosynthetic gene cluster and metabolite. 
 > Participants should bring their own laptops and plan to participate actively.  
 > To get started, follow the directions in the [Setup](setup.html) tab to 
 > get access to the required software and data for this workshop. FIX [Setup](setup.html) 💢
@@ -54,8 +54,8 @@ Interested in teaching these materials? We have an
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Data download and annotation.|FIX TIME 💢|  
-| [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/) |  Biosynthetic gene clusters prediction and organization| FIX TIME 💢| 
+| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Use command-line tools to download and annotate prokaryotic genomes. Learn pangenome analyses and visualizations. |FIX TIME 💢|  
+| [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/) |  Use command line and web-based tools for biosynthetic gene clusters prediction and organization.| FIX TIME 💢| 
 
 
 # Teaching Platform
