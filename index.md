@@ -46,23 +46,22 @@ Interested in teaching these materials? We have an
 > Tettelin and collaborators discovered that there was inter-species
 > genome variation, and in consequence that one genome is not enough to 
 > describe the genetic repertoir of a species. 
-> All of the data used in this workshop can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 💢
-> 
-> More information about this data is available on the [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html). FIX [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html) 💢
+> All of the data used in this workshop can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
+> More information about this data is available on the [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html).
 {: .prereq} 
 
 # Workshop Overview 
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | FIX DESCRIPTION 💢|FIX TIME 💢|  
-| [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/) |  FIX DESCRIPTION 💢| FIX TIME 💢| 
+| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Data download and annotation.|FIX TIME 💢|  
+| [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/) |  Biosynthetic gene clusters prediction and organization| FIX TIME 💢| 
 
 
 # Teaching Platform
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS)
 instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI).
-If you want to run your own instance of the server used for this workshop, follow the directions in the [Setup](setup.html) tab. ❓
+If you want to run your own instance of the server used for this workshop, follow the directions in the [Setup](setup.html) tab. 
 
 ## Citation 
-Preparing to submit to [JOSE](paper.md)
+
