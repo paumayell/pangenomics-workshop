@@ -7,7 +7,7 @@ title: "Instructor Notes"
 
 This Workshop is devided in 2 lessons: 
 1. Pangenome Analysis in Prokaryotes
-2. Genome Mining
+2. Genome Mining in Prokaryotes
 
 
 Here you can found instructor notes for all of those lessons.
@@ -37,6 +37,8 @@ with the Instructors throughout the workshop. These files are available on the h
 
 Make sure to tell your helpers about the `.backup_dc_workshop` directory so that they can use these resources to help
 learners catch up during the workshop. 
+# Notes for the Workshop
+The tree of the directories whe you download the data should look like:
 
 
 # Notes for the Pangenome Analysis in Prokaryotes lesson
