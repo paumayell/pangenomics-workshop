@@ -52,8 +52,8 @@ Interested in teaching these materials? We have an
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Use command-line tools to download and annotate prokaryotic genomes. Learn pangenome analyses and visualizations. |FIX TIME 💢|  
-| [Genome Mining](https://axelramosgarcia.github.io/Genome-Mining/) |  Use command line and web-based tools for biosynthetic gene clusters prediction and organization.| FIX TIME 💢| 
+| [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Use command-line tools to download and annotate prokaryotic genomes. Learn pangenome analyses and visualizations. |04:30 hrs|  
+| [Genome Mining in Prokaryotes](https://axelramosgarcia.github.io/Genome-Mining/) |  Use command line and web-based tools for biosynthetic gene clusters prediction and organization.|04:30 hrs| 
 
 
 # Teaching Platform
