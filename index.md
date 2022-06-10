@@ -15,7 +15,7 @@ This workshop is designed to be taught over two full days of instruction.
 
 **Please note that workshop materials for working with Comparative Genomics data are in “pre-alpha” development. 
 These lessons are available for review and for informal teaching experiences, but are not yet part 
-of The Carpentries’ official lesson offerings.** ❓
+of The Carpentries’ official lesson offerings.**
 
 Interested in teaching these materials? We have an 
 [Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V) were we will be happy to help you! 
