@@ -120,9 +120,8 @@ dataset. Instructions for doing this are below.
 
 | Software | Version | Manual | Available for | Description |
 | -------- | ------------ | ------ | ------------- | ----------- |
-| [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) | 0.11.7 | [Link](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/)| Linux, MacOS, Windows | Quality control tool for high throughput sequence data. |
-| [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) | 0.38 | [Link](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) | Linux, MacOS, Windows | A flexible read trimming tool for Illumina NGS data. |
-|[Kraken](http://ccb.jhu.edu/software/kraken2/)|2.1.1|[Link](https://github.com/DerrickWood/kraken2/wiki/Manual)|Available for|A tool for taxonomic assignation for reads from metagenomics|
+| [Prokka](https://github.com/tseemann/prokka) | 1.14.6 | [Link](https://github.com/tseemann/prokka) | Linux, MacOC, Windows | Bacterial, archaeal and viral assembly annotation |
+| -------- | ------------ | ------ | ------------- | ----------- |
 |[KronaTools](https://github.com/marbl/Krona/wiki) |2.7.1|help link|A tool for taxonomic visualization in hierarchical pie graphs.|
 |[MaxBin2]()|2.2.7|help link|Available for| Tool for MAGs reconstruction|
 |[Spades](https://cab.spbu.ru/software/spades/)|v3.14.1 |[Link](https://github.com/ablab/spades/blob/spades_3.15.2/README.md#meta)|Linux & MacOS| Tool for assemblies|
@@ -302,7 +301,45 @@ $ java -jar ~/src/Trimmomatic-0.38/trimmomatic-0.38.jar
 > {: .bash}
 {: .solution}
 
-### Installation of Anvi'o
+## NCBI-genome-download installaation
+
+There are two ways to install this package. The firts one is with pip. It is recommended to upgrade the pip version to the newest
+~~~
+pip install --upgrade pip
+pip install .
+~~~
+
+Then you can install the package 
+```
+pip install ncbi-genome-download
+```
+The other installation option is with conda, you can refer to the website (highly recommended).
+
+```
+conda install -c bioconda ncbi-genome-download
+```
+
+
+## Prokka installation
+
+# Bioconda
+If you use [Conda](https://conda.io/docs/install/quick.html)
+you can use the [Bioconda channel](https://bioconda.github.io/):
+
+```
+conda install -c conda-forge -c bioconda -c defaults prokka
+```
+# MacOS
+
+```
+sudo cpan Time::Piece XML::Simple Digest::MD5 Bio::Perl
+git clone https://github.com/tseemann/prokka.git $HOME/prokka
+$HOME/prokka/bin/prokka --setupdb
+```
+**You can test your installation typing `prokka` and it should display its help screen**
+
+
+## Installation of Anvi'o
 
 * Install a stable release of anvi’o on a Mac, Linux, or Windows running computer (best option for end users).
 * Use anvi’o from the active development branch (best option for developers).
