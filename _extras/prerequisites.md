@@ -12,44 +12,30 @@ title: Prerequisites
 
 # Linux commands
 This section contains the linux commands that will be in use during 
-the workshop. Eventually the should consitute its own introductory lesson.
-| command  |   |   
-|---|---|   
+the workshop. Eventually the should consitute its own introductory lesson.  
+
+| command  | description |    
+|----------|-------------|
 | wget   |   |  
-| gunzip  |   |  
+| gunzip  |   |     
 
 pwd
 ls
-
 sh (script structure)
-
 for
-
 while
-BiG-SCAPE, BiGSLICE
 echo
-BiG-SCAPE, ppanggolin, BiGSLICE
 cut -d -f
-BiG-SCAPE, ppanggolin
 mkdir -p
-BiG-SCAPE, ppanggolin, BiGSLICE
+head
 scp
-BiG-SCAPE, ppanggolin
 mv
-BiG-SCAPE. BiGSLICE, Prokka
 firefox
 BiG-SCAPE
 scp 
-corason y evomining
 ssh 
-introducción, ppanggolin
-
-
-
 tree
-BiGSLICE, Prokka
 rm 
-BiGSLICE, Prokka
 more
 BiGSLICE
 head
