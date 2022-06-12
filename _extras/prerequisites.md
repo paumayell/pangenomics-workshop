@@ -16,51 +16,34 @@ the workshop. Eventually the should consitute its own introductory lesson.
 
 | command  | description |    
 |----------|-------------|
-| wget   |   |  
-| gunzip  |   |     
-
-pwd
-ls
-sh (script structure)
-for
-while
-echo
-cut -d -f
-mkdir -p
-head
-scp
-mv
-firefox
-BiG-SCAPE
-scp 
-ssh 
-tree
-rm 
-more
-BiGSLICE
-head
-BiGSLICE, Prokka
-grep
-BiGSLICE, Prokka
->
-BiGSLICE, Prokka
->>
-BiGSLICE, Prokka
-cd
-Prokka, BiGSLICE
-rename
-Anvi’o
-while read line
-Anvi’o
-find
-get_homologues
-ln -s
-get_homologues
-Links simbolicos
-get_homologues
-PS1
-en todos lados
-wc
-Prokka
+| wget   | get content from a website  |  
+| gunzip  |  decompress a file |     
+|PS1='$ ' |  Change prompt view to '$ ' |  
+|echo  |   |  
+|pwd|   |  
+|ls|   |  
+|mkdir -p |   |  
+|cd|   |  
+|wc|   |  
+|head|   |  
+|tail|   |  
+|tree|   |  
+|mv|   |  
+|rm |   |  
+|sh (script structure)|   |  
+|for|   |  
+|while|   |  
+|while read line|   |  
+|find|   |  
+|ln -s Links simbolicos|   |  
+|rename|   |  
+|cut -d' ' -f|   |  
+|firefox|   |  
+|scp |   |  
+|ssh |   |  
+|more|   |  
+|grep|   |  
+|>|   |  
+|>>|   |  
 
 
