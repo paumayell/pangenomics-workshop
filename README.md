@@ -25,7 +25,7 @@ Current maintainers of this lesson are
 * [Nelly Sélem Mojica](https://github.com/nselem)
 * [Claudia Zirión Martínez](https://github.com/Czirion)
 * [Andrés Arredondo Cruz](https://github.com/andrespan)
-* [Paulina Mayell Mejía Ponce](https:/github.com/paumayell)
+* [Paulina Mayell Mejía Ponce](https://github.com/paumayell)
 * [Diego Garfias Gallegos](https://github.com/Bedxxe)
 * ...FIXME :anger:
 
