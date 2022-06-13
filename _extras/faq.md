@@ -3,6 +3,9 @@ layout: page
 title: Frequently Asked Questions
 ---
 
+
+# FIXME ...
+
 Thank you for your interest in hosting or teaching a Metagenomics workshop. Below you will find answers to some frequently asked questions about this curriculum. If the answer to your question doesn’t appear, please contact us using the Contact link in the righthand lower corner of this page.
 
 * [For Hosts](#hosts)
