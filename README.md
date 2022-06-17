@@ -10,8 +10,8 @@ Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](
 
 Overview page of the Comparative Bacterial Genomics Workshop that comprises the lessons:
 
-- [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/)
-- [Genome Mining in Prokaryotes](https://axelramosgarcia.github.io/Genome-Mining/)
+- [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) [Repository](https://github.com/paumayell/pangenomics/)
+- [Genome Mining in Prokaryotes](https://axelramosgarcia.github.io/Genome-Mining/) [Repository](https://github.com/AxelRamosGarcia/Genome-Mining/)
 
 
 ## Code of Conduct
@@ -31,9 +31,7 @@ Current maintainers of this lesson are
 
 ## Authors
 
-The Comparative Genomics Workshop Overview is authored and maintained by the [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members). FIX [community](https://github.com/carpentries-incubator/metagenomics-workshop/network/members) :anger:
-
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS) FIX [AUTHORS](AUTHORS) :anger:
+A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Citation
 
