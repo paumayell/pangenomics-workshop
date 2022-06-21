@@ -10,6 +10,7 @@ Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](
 
 Overview page of the Comparative Bacterial Genomics Workshop that comprises the lessons:
 
+- [Introduction to the Command Line for Comparative Genomics](https://czirion.github.io/shell-comparative-genomics/) [Repository](https://github.com/Czirion/shell-comparative-genomics)
 - [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) [Repository](https://github.com/paumayell/pangenomics/)
 - [Genome Mining in Prokaryotes](https://axelramosgarcia.github.io/Genome-Mining/) [Repository](https://github.com/AxelRamosGarcia/Genome-Mining/)
 
