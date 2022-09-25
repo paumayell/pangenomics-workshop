@@ -40,13 +40,13 @@ Current maintainers of this lesson are
 * [Aaron Jaime]()
 * [Abel Lovaco]()
 * [Shaday Flores]()
-* [Mario]()
+* [Mario Jardón]()
 * [Karina Ochoa]()
 * [Anton Pashkov]()
 * [Rafael Pérez]()
 * [Miguel Magaña]()
-* [Axel]()
-* [Zaki]()
+* [Axel Alejandro Ramos]()
+* [Zaki Santamaria]()
 
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
