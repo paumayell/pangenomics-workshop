@@ -31,6 +31,23 @@ Current maintainers of this lesson are
 * ...FIXME :anger:
 
 ## Authors
+* [Nelly Sélem Mojica](https://github.com/nselem)
+* [Claudia Zirión Martínez](https://github.com/Czirion)
+* [Andrés Arredondo Cruz](https://github.com/andrespan)
+* [Paulina Mayell Mejía Ponce](https://github.com/paumayell)
+* [Diego Garfias Gallegos](https://github.com/Bedxxe)
+* [Haydee Contreras]()
+* [Aaron Jaime]()
+* [Abel Lovaco]()
+* [Shaday Flores]()
+* [Mario]()
+* [Karina]()
+* [Anton]()
+* [Rafael]()
+* [Miguel Magaña]()
+* [Axel]()
+* [Zaki]()
+
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
