@@ -17,7 +17,7 @@ This workshop is designed to be taught over two full days of instruction.
 These lessons are available for review and for informal teaching experiences, but are not yet part 
 of The Carpentries’ official lesson offerings.**
 
-Please chose your user in this [spredsheet]([url](https://docs.google.com/spreadsheets/d/1uiBMjlIh3U5JufVoDl9BTncHPCmYm9GT-LHUkOwWnnU/edit#gid=0))
+Please chose your user in this [spredsheet](https://docs.google.com/spreadsheets/d/1uiBMjlIh3U5JufVoDl9BTncHPCmYm9GT-LHUkOwWnnU/edit#gid=0)
 
 Interested in teaching these materials? We have an 
 [Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V) were we will be happy to help you! 
