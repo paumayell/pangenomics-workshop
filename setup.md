@@ -70,15 +70,13 @@ $ cat metagenomics.yml
 ~~~
 {: .bash}
 ~~~
-name: metagenomics                                                                
+name: pangenomics                                                                
 dependencies:                                      
-  - kraken2 
-  - krona             
-  - maxbin2
-  - spades
-  - kraken-biom
-  - checkm-genome
-
+  - ncbi-genome-download 
+  - prokka
+  - anvio
+  - get_homologues
+  - pangolin
 ~~~
 {: .output}
 
@@ -122,11 +120,10 @@ dataset. Instructions for doing this are below.
 | -------- | ------------ | ------ | ------------- | ----------- |
 | [Prokka](https://github.com/tseemann/prokka) | 1.14.6 | [Link](https://github.com/tseemann/prokka) | Linux, MacOC, Windows | Bacterial, archaeal and viral assembly annotation |
 | -------- | ------------ | ------ | ------------- | ----------- |
-|[KronaTools](https://github.com/marbl/Krona/wiki) |2.7.1|help link|A tool for taxonomic visualization in hierarchical pie graphs.|
-|[MaxBin2]()|2.2.7|help link|Available for| Tool for MAGs reconstruction|
-|[Spades](https://cab.spbu.ru/software/spades/)|v3.14.1 |[Link](https://github.com/ablab/spades/blob/spades_3.15.2/README.md#meta)|Linux & MacOS| Tool for assemblies|
-|[Kraken-biom](https://github.com/smdabdoub/kraken-biom)|1.0.1|help link|Available for|Tool to convert kraken reports in R readable files|
-|[CheckM-genome](https://ecogenomics.github.io/CheckM/)|v1.1.3 |help link|Available for|Tool to check completeness and contamination in MAGs |
+|[ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) |version |help link|A tool for donwload genomes of certain taxa.|
+|[anvio](https://anvio.org/)|version |Link|Linux & MacOS| Tool for assemblies|
+|[get_homologues](https://github.com/smdabdoub/kraken-biom)|version|[help](http://eead-csic-compbio.github.io/get_homologues/manual/)|Available for|Tool to calculate pangenomes|
+|[pangolin](https://github.com/labgem/PPanGGOLiN)|version |[help](https://github.com/labgem/PPanGGOLiN)|Available for|Tool to check completeness and contamination in MAGs |
 
 #### R and RStudio:
 
