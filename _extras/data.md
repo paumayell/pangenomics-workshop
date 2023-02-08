@@ -3,7 +3,16 @@ layout: page
 title: Data
 ---
 
-# Features of the dataset  
+
+## Getting the dataset  
+~~~
+wget https://zenodo.org/record/7620503/files/pan_workshop.zip?download=1
+mv pan_workshop.zip?download=1 pan_workshop.zip
+unzip pan_workshop.zip
+~~~
+{:bash-language}
+
+## Features of the dataset  
 
 The dataset consist of six genomes of _Streptococcus agalactiae_ . The nucleotide files analized in this lesson are available 
 in the DDBJ/EMBL/GenBank database with accession nos. AAJO01000000 (18RS21), AAJP01000000 (515), AAJQ01000000 (CJB111), AAJR01000000 (COH1), AAJS01000000 (H36B), and CP000114 (A909). Also, these sequences has been deposited in Zenodo with permanent doi:  
@@ -12,7 +21,7 @@ in the DDBJ/EMBL/GenBank database with accession nos. AAJO01000000 (18RS21), AAJ
 
 
 
-# Introduction to the dataset  
+## Introduction to the dataset  
 In 2005 Tettelin and collaborators were working in a vaccine against _Streptococcus agalactiae_, the organism responsible of the main cause of nenonatal infections in humans. When comparing these six genomes, it was discovered that a single genome does nos contain all the genetic repertoir of a species. These data lead to the aknowledge of the inter-species genomic variation. The genetic content was described as the pan-genome consisting of a core genome shared by all isolates, plus a dispensable genome consisting of partially shared and strain-specific genes.
 
 ## References  
