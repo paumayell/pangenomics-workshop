@@ -6,9 +6,9 @@ title: Data
 
 ## Getting the dataset  
 ~~~
-wget https://zenodo.org/record/7620503/files/pan_workshop.zip?download=1
-mv pan_workshop.zip?download=1 pan_workshop.zip
-unzip pan_workshop.zip
+wget https://zenodo.org/record/7620704/files/pan_workshop.zip?download=1
+unzip 'pan_workshop.zip?download=1'
+rm 'pan_workshop.zip?download=1'
 ~~~
 {:bash-language}
 
