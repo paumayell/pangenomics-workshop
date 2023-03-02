@@ -17,10 +17,10 @@ This workshop is designed to be taught over two full days of instruction.
 These lessons are available for review and for informal teaching experiences, but are not yet part 
 of The Carpentries’ official lesson offerings.**
 
-Please chose your user in this [spredsheet](https://docs.google.com/spreadsheets/d/1uiBMjlIh3U5JufVoDl9BTncHPCmYm9GT-LHUkOwWnnU/edit#gid=0)
+Please choose your user in this [spredsheet](https://docs.google.com/spreadsheets/d/1uiBMjlIh3U5JufVoDl9BTncHPCmYm9GT-LHUkOwWnnU/edit#gid=0)
 
 Interested in teaching these materials? We have an 
-[Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V) were we will be happy to help you! 
+[Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V) where we will be happy to help you! 
 
 
 > ## Frequently Asked Questions
@@ -32,7 +32,7 @@ Interested in teaching these materials? We have an
 >
 > This lesson assumes that learners have no prior experience with the tools covered in the workshop. 
 > However, learners are expected to have some familiarity with biological concepts,
-> including the concepts of prokariotic genome, biosynthetic gene cluster and metabolite. 
+> including the concepts of prokaryotic genome, biosynthetic gene cluster and metabolite. 
 > Participants should bring their own laptops and plan to participate actively.  
 > 
 {: .prereq}
@@ -45,7 +45,7 @@ Interested in teaching these materials? We have an
 > In this research, while studying the available genomes of _S. agalactiae_, 
 > Tettelin and collaborators discovered that there was inter-species
 > genome variation, and in consequence that one genome is not enough to 
-> describe the genetic repertoir of a species. 
+> describe the genetic repertoire of a species. 
 > All of the data used in this workshop can be downloaded from:
 >  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
 > More information about this data is available on the [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html).
