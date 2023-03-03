@@ -5,7 +5,7 @@ Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools
 for working
 with data so that they can get more done in less time, and with less pain. This workshop uses 
 Data Carpentry's approach to
-teach data management and analysis for comparative bacterial genomics research including: 
+teach data management for pangenome analysis in prokaryotes including: 
 best practices for organization of bioinformatics projects and data, 
 use of command-line tools to compare genetic diversity between genomes,
 organize this diversity in the core and dispensable set of a pangenome,
@@ -13,7 +13,7 @@ use of command-line tools to obtain and organize biosynthetic gene clusters,
 and connecting to and using cloud computing. 
 This workshop is designed to be taught over two full days of instruction.
 
-**Please note that workshop materials for working with Comparative Genomics data are in “pre-alpha” development. 
+**Please note that workshop materials for working with Pangenome Analysis in Prokaryotes data are in “pre-alpha” development. 
 These lessons are available for review and for informal teaching experiences, but are not yet part 
 of The Carpentries’ official lesson offerings.**
 
@@ -24,8 +24,8 @@ Interested in teaching these materials? We have an
 
 
 > ## Frequently Asked Questions
-> Read our [FAQ](/comparative-genomics-workshop/faq/) to learn more about Data Carpentry's Comparative Bacterial Genomics Workshop, 
-> as an Instructor or a workshop host. FIX [FAQ](/comparative-genomics-workshop/faq/) 💢
+> Read our [FAQ](/pangenomics-workshop/faq/index.html) to learn more about Data Carpentry's Pangenome Analysis in Prokaryotes Workshop, 
+> as an Instructor or a workshop host. FIX [FAQ](//pangenomics-workshop/faq/) 💢
 {: .callout} 
 
 > ## Getting Started
@@ -48,14 +48,14 @@ Interested in teaching these materials? We have an
 > describe the genetic repertoire of a species. 
 > All of the data used in this workshop can be downloaded from:
 >  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
-> More information about this data is available on the [Data page](https://czirion.github.io/comparative-genomics-workshop/data/index.html).
+> More information about this data is available on the [Data page](https://czirion.github.io/pangenomics-workshop/data/index.html).
 {: .prereq} 
 
 # Workshop Overview 
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Introduction to the Command Line for Comparative Genomics](https://czirion.github.io/shell-comparative-genomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
+| [Introduction to the Command Line for Pangenome Analysis in Prokaryotes](https://czirion.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
 | [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Use command-line tools to download and annotate prokaryotic genomes. Learn pangenome analyses and visualizations. |04:30 hrs|  
 
 
