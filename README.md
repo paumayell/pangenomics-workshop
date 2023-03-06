@@ -10,7 +10,7 @@ Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](
 
 Overview page of the Pangenomics Workshop that comprises the lessons:
 
-- [Introduction to the Command Line for Comparative Genomics](https://czirion.github.io/shell-comparative-genomics/) [Repository](https://github.com/Czirion/shell-comparative-genomics)
+- [Introduction to the Command Line for Pangenome Analysis in Prokaryotes](https://czirion.github.io/shell-pangenomics/) [Repository](https://github.com/Czirion/shell-pangenomics/)
 - [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) [Repository](https://github.com/paumayell/pangenomics/)
 
 ## Code of Conduct
