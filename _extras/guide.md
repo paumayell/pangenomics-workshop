@@ -40,6 +40,7 @@ learners catch up during the workshop.
 # Notes for the Workshop
 The tree of the directories whe you download the data should look like:
 
+If you are teaching the lesson with the CCM-UNAM server you can use this [spreadsheet]((https://docs.google.com/spreadsheets/d/1uiBMjlIh3U5JufVoDl9BTncHPCmYm9GT-LHUkOwWnnU/edit#gid=0)) to ask the participants to choose their user:
 
 # Notes for the Pangenome Analysis in Prokaryotes lesson
 
