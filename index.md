@@ -22,7 +22,7 @@ Interested in teaching these materials? We have a
 
 
 > ## Frequently Asked Questions
-> Read our [FAQ](/pangenomics-workshop/faq/index.html) to learn more about Data Carpentry's Pangenome Analysis in Prokaryotes Workshop, 
+> Read our [FAQ](/pangenomics-workshop/faq/index.html) to learn more about Data Carpentry's Pangenomics Workshop, 
 > as an Instructor or a workshop host. FIX [FAQ](//pangenomics-workshop/faq/) 💢
 {: .callout} 
 
