@@ -30,7 +30,7 @@ Interested in teaching these materials? We have a
 >
 > This lesson assumes that learners have no prior experience with the tools covered in the workshop. 
 > However, learners are expected to have some familiarity with biological concepts,
-> including the concepts of prokaryotic genome, biosynthetic gene cluster and metabolite. 
+> including the concepts of prokaryotic genome and gene family. 
 > Participants should bring their own laptops and plan to participate actively.  
 > 
 {: .prereq}
