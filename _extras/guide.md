@@ -8,16 +8,14 @@ title: "Instructor Notes"
 This Workshop is divided in 3 lessons: 
 1. Introduction to Bash.    
 2. Introduction to Python.      
-3. Pangenome Analysis in Prokaryotes.  
+3. Pangenome Analysis in Prokaryotes.  This lesson is divided in an introduction to pangenome analysis 
+and some topological data analysis episodes.
 
-Introduction to bash
-Introduction to Python
-This lesson is needed only if you are going to study the TDA 
 # General notes for the whole workshop
 
 ## Technical tips and tricks
 
-The parent directory of everything that we will be using during the lesson is `/home/dcuser/dc_workshop`❓. At the beginning of the workshop make sure it looks like this:
+The parent directory of everything that we will be using during the lesson is `/home/dcuser/dc_workshop`❓. At the beginning of the workshop make sure it looks like this: 
 
 FIXME: `tree` command of the `dc_workshop`❓ folder. 💢
 
