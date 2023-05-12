@@ -5,13 +5,14 @@ title: "Instructor Notes"
 
 ## Workshop Structure
 
-This Workshop is devided in 2 lessons: 
-1. Pangenome Analysis in Prokaryotes
-2. Genome Mining in Prokaryotes
+This Workshop is divided in 3 lessons: 
+1. Introduction to Bash.    
+2. Introduction to Python.      
+3. Pangenome Analysis in Prokaryotes.  
 
-
-Here you can found instructor notes for all of those lessons.
-
+Introduction to bash
+Introduction to Python
+This lesson is needed only if you are going to study the TDA 
 # General notes for the whole workshop
 
 ## Technical tips and tricks
