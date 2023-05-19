@@ -8,7 +8,11 @@ title: "Instructor Notes"
 This Workshop is divided in 3 lessons: 
 1. Introduction to Bash.    
 2. Introduction to Python.      
-3. Pangenome Analysis in Prokaryotes.  This lesson is divided in an introduction to pangenome analysis 
+3. Pangenome Analysis in Prokaryotes.  
+
+The sixteen hours workshop workshop is designed for a whole weekend. Nevertheless 
+it could be used as a reference manual for students learning pangenomics or TDA.
+Lesson is divided in an introduction to pangenome analysis 
 and some topological data analysis episodes.
 
 # General notes for the whole workshop
