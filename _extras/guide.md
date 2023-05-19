@@ -16,7 +16,7 @@ Lesson is divided in an introduction to pangenome analysis
 and some topological data analysis episodes.
 
 <a href="{{ page.root }}/fig/01-01-01.png">
-   <img src="{{ page.root }}/fig/PanWorkshopWorkflow.png" alt=" Venn diagram of a) a closed pangenome and b) an open pangenome, comparing the sizes of their core and accessory genomes. c) Graphic depicting the differences between closed and open pangenomes regarding their size, total genes in pangenome, and the number of sequenced genomes." />
+   <img src="{{ page.root }}/fig/PanWorkshopWorkflow.png" alt=" Workflow of the lessons in the episode. If you are already familiar with Python or Bash, you can skip these lessons. Once in the pangenome lesson, if you have interest in mathematics and topology read the Topological Data Analysos episodes, otherwise skip them and end in the other resources final episode. " />
   </a>
   
 # General notes for the whole workshop
