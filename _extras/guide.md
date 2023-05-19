@@ -23,6 +23,9 @@ The parent directory of everything that we will be using during the lesson is `/
 
 FIXME: `tree` command of the `dc_workshop`❓ folder. 💢
 
+## Slides
+Here you can find a set of [slides](https://docs.google.com/presentation/d/1MYsxgJ8rOu4cmGQw4S9EXcRtvd8CNNlEtgzbeuBiJgE/edit#slide=id.p)
+with the figures of the lesson.  
 ## Installation
 
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. See the 
