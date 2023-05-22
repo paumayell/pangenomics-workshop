@@ -53,7 +53,7 @@ Interested in teaching these materials? We have a
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Introduction to the Command Line for Pangenome Analysis in Prokaryotes](https://czirion.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
+| [Introduction to the Command Line for Pangenomics](https://czirion.github.io/shell-pangenomics/) | Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hrs |
 | [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) | Use command-line tools to download and annotate prokaryotic genomes. Learn pangenome analyses and visualizations. |04:30 hrs|  
 
 
