@@ -27,6 +27,8 @@ The parent directory of everything that we will be using during the lesson is `/
 
 FIXME: `tree` command of the `dc_workshop`❓ folder. 💢
 
+* Commands with ">>" : Whenever there is a command that appends contents to a file it is possible that if the learners make a typo and then run the correct command, the resulting file will have erroneous content. So when a command like that appears ask the learners to erase the file if they made a mistake, before they repeat te command. 
+
 ## Slides
 Here you can find a set of [slides](https://docs.google.com/presentation/d/1MYsxgJ8rOu4cmGQw4S9EXcRtvd8CNNlEtgzbeuBiJgE/edit#slide=id.p)
 with the figures of the lesson.  
