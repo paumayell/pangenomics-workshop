@@ -2,15 +2,6 @@
 layout: page
 title: "Instructor Notes"
 ---
-## Connection 
-Click in the [server login site](https://lab.matmor.unam.mx:8443/hub/login)   
-[Click in Google sheet with available users](https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790)  
-
-## Working environments     
-- New Terminal: Click "New"+ terminal (right side, at the top)  
-  To activate conda environment in terminal `conda activate /miniconda3/envs/miambiente`    
-
-- New Jupyter Notebook with TDA environments: Click "New"+ TDA (right side, at the top) 
 
 ## Workshop Structure
 
