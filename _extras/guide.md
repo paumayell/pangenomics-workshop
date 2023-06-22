@@ -3,9 +3,8 @@ layout: page
 title: "Instructor Notes"
 ---
 ## Connection 
-Click in the [server login site](https://lab.matmor.unam.mx:8443/hub/login) 
-user: alumnoX pass: alumnoX@CCM23  
-[Google sheet available  with users](https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790)  
+Click in the [server login site](https://lab.matmor.unam.mx:8443/hub/login)   
+[Click in Google sheet with available users](https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790)    
 ## Conda environments  
 To activate conda environment in terminal allpath 
 To activate conda environment in jupyter change Kernell  
