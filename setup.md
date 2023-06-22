@@ -310,3 +310,18 @@ $ conda env create -f pangenomics.yml
 ~~~
 {: .bash}  
 
+## Connection to JupyterHub (Notebooks and Terminal)
+Open the JupyterHub server login site by clicking [this link](https://lab.matmor.unam.mx:8443/hub/login), it will open in a new tab.
+Open this [Google sheet](https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790) and write your name in a user.
+Use this user information to log in the JupyterHub site that you opened in the previous step.
+
+### Open a Bash Terminal
+Click on the button "New" (upper right) and choose the option "Terminal" from the drop-down menu. A new tab with a terminal will open.
+
+### Open a Jupyter Notebook with the TDA environment
+Click on the button "New" (upper right) and choose the option "TDA" from the drop-down menu. A new tab with a notebook will open.
+
+## Activating Conda environments
+
+To activate a Conda environment in the Terminal of JupyterHub you need to specify the absolute path of the environment: `conda activate /miniconda3/envs/my-environment-name`    
+
