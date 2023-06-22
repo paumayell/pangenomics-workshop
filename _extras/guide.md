@@ -2,6 +2,14 @@
 layout: page
 title: "Instructor Notes"
 ---
+## Connection 
+server 
+user: alumnoX pass: alumnoX@CCM23  
+Google sheet with users  
+## Conda environments  
+To activate conda environment in terminal allpath 
+To activate conda environment in jupyter change Kernell  
+
 
 ## Workshop Structure
 
