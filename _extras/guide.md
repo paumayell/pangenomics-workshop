@@ -3,7 +3,7 @@ layout: page
 title: "Instructor Notes"
 ---
 ## Connection 
-server 
+Click in the [server login site](https://lab.matmor.unam.mx:8443/hub/login) 
 user: alumnoX pass: alumnoX@CCM23  
 Google sheet with users  
 ## Conda environments  
