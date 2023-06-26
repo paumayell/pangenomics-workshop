@@ -18,7 +18,9 @@ These lessons are available for review and for informal teaching experiences, bu
 of The Carpentries’ official lesson offerings.**
 
 Interested in teaching these materials? We have a 
-[Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V) where we will be happy to help you! 
+[Slack channel](https://metagenomicslesson.slack.com/archives/C023H1DRD1V), where we will be happy to help you! 
+## Schedule  
+[Checkout the schedule of the Workshop](https://docs.google.com/document/d/1pv9IZXRTqFwl2credU1KUboRg_aAgI5zPNADd3z2sOg/edit)
 
 
 > ## Frequently Asked Questions
