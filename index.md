@@ -5,16 +5,15 @@ Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools
 for working
 with data so that they can get more done in less time, and with less pain. This workshop uses 
 Data Carpentry's approach to
-teach data management for pangenome analysis in prokaryotes including: 
-best practices for organization of bioinformatics projects and data, 
+teach data management for **pangenome analysis in prokaryotes** including: 
+best practices for the organization of bioinformatics projects and data, 
 use of command-line tools to compare genetic diversity between genomes,
 organize this diversity in the core and dispensable set of a pangenome,
-use of command-line tools to obtain and organize biosynthetic gene clusters, 
 and connecting to and using cloud computing. 
 This workshop is designed to be taught over two full days of instruction.
 
-**Please note that workshop materials for working with Pangenome Analysis in Prokaryotes data are in “pre-alpha” development. 
-These lessons are available for review and for informal teaching experiences, but are not yet part 
+**Please note that workshop materials for working with Pangenome Analysis in Prokaryotes data are in “alpha” development. 
+These lessons are available for review and for informal teaching experiences but are not yet part 
 of The Carpentries’ official lesson offerings.**
 
 Interested in teaching these materials? We have a 
@@ -25,7 +24,7 @@ Interested in teaching these materials? We have a
 
 > ## Frequently Asked Questions
 > Read our [FAQ](/pangenomics-workshop/faq/index.html) to learn more about Data Carpentry's Pangenomics Workshop, 
-> as an Instructor or a workshop host. FIX [FAQ](//pangenomics-workshop/faq/) 💢
+> as an Instructor or a workshop host. FIXME 💢
 {: .callout} 
 
 > ## Getting Started
@@ -44,7 +43,7 @@ Interested in teaching these materials? We have a
 > PNAS 2005. doi [10.1073/pnas.0506758102](https://doi.org/10.1073/pnas.0506758102).
 > In this research, while studying the available genomes of _S. agalactiae_, 
 > Tettelin and collaborators discovered that there was inter-species
-> genome variation, and in consequence that one genome is not enough to 
+> genome variation, and in consequence, one genome is not enough to 
 > describe the genetic repertoire of a species. 
 > All of the data used in this workshop can be downloaded from:
 >  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
