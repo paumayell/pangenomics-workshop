@@ -6,7 +6,7 @@ title: Data
 
 ## Getting the dataset  
 ~~~
-wget https://zenodo.org/record/7651068/files/pan_workshop.zip?download=1
+wget https://zenodo.org/record/7974915/files/pan_workshop.zip?download=1
 unzip 'pan_workshop.zip?download=1'
 rm 'pan_workshop.zip?download=1'
 ~~~
