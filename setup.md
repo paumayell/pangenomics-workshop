@@ -177,7 +177,7 @@ Options:
 * Use anvi’o from the active development branch (best option for developers).  
 * Run anvi’o through its Docker containers without any installation (best option for the lazy).  
 
-## Connection to JupyterHub (Notebooks and Terminal)
+## Connection to JupyterHub in CCM's servers (Notebooks and Terminal)
 Open the JupyterHub server login site in a new tab with [this link](https://lab.matmor.unam.mx:8443/hub/login).
 Open this [Google sheet](https://docs.google.com/spreadsheets/d/1Lg633gpV8KrUqTn34PDM8V0glAkTZpHcm4CViRRz1N0/edit#gid=1473209790) in a new tab and write your name in a user.
 Use this user information to log in to the JupyterHub site that you opened in the previous step.
