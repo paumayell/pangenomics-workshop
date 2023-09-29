@@ -154,8 +154,6 @@ conda install -c bioconda ncbi-genome-download
 #### **Prokka installation**
 
 Conda installation:
-If you use [Conda](https://conda.io/docs/install/quick.html)
-you can use the [Bioconda channel](https://bioconda.github.io/):
 ~~~
 conda install -c conda-forge -c bioconda -c defaults prokka
 ~~~
