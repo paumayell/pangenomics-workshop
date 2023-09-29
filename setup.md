@@ -25,7 +25,7 @@ It's a free, open-source spreadsheet program.
 ## Running the lesson by yourself (Not in a Data Carpentry Workshop)
 
 ### Required  software  
-If you are not in a Data Carpentry Workshop, the software you need is listed in the table below. Follow the instructions in Option A *or* Option B to have access to these programs.  
+If you are not in a Data Carpentry Workshop, the software you need is listed in the table below. **Follow the instructions in Option A *or* Option B** to have access to these programs.  
 
 
 | Software | Version | Manual | Available for | Description |
@@ -60,7 +60,7 @@ page linked below for information about the data and access to the data files. B
 with real data, be aware that file sizes for the data are large.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7620503.svg)](https://doi.org/10.5281/zenodo.7620503)
 
-More information about these data will be presented in the [first episode of the Pangenome Analysis in Prokaryotes lesson](https://paumayell.github.io/pangenomics/01-introduction/index.html).
+More information about these data will be presented in the [first episode of the Pangenome Analysis in Prokaryotes lesson](https://paumayell.github.io/pangenomics/01-introduction/index.html).  
 
 
 #### **Install a Bash terminal** 
@@ -100,7 +100,7 @@ More information about these data will be presented in the [first episode of the
 
 > ## Linux
 >  - The default shell is usually Bash, and there is usually no need to install anything. To see if your default shell is Bash type, echo $SHELL in a terminal and press the Enter key. If the message printed does not end with `/bash`, then your default is something else, and you can run Bash by typing `bash`.
-{: .solution}
+{: .solution}  
 
 
 #### **Install Miniconda3**
@@ -130,75 +130,52 @@ To make a [Conda](https://conda.io/projects/conda/en/latest/index.html) environm
 
 > ## WSL
 > See the video tutorial, [installing Miniconda3 on WSL Ubuntu](https://youtu.be/owQgZoE-GrY)
-{: .solution}
+{: .solution}  
 
-## NCBI-genome-download installaation
+#### NCBI-genome-download installation
 
 There are two ways to install this package. The first one is with `pip`. It is recommended to upgrade the `pip` version to the newest one.
+Pip installation:
 ~~~
 pip install --upgrade pip
 pip install .
-~~~
-
-Then you can install the package: 
-```
 pip install ncbi-genome-download
-```
+~~~
+{: .language-bash}
+
 The other installation option is with Conda, you can refer to the website (highly recommended).
-
-```
+Conda installation:
+~~~
 conda install -c bioconda ncbi-genome-download
-```
+~~~
+{: .language-bash}  
 
 
-## Prokka installation
+#### Prokka installation
 
-# Bioconda
+Conda installation:
 If you use [Conda](https://conda.io/docs/install/quick.html)
 you can use the [Bioconda channel](https://bioconda.github.io/):
-
-```
+~~~
 conda install -c conda-forge -c bioconda -c defaults prokka
-```
-# MacOS
-
-```
+~~~
+{: .language-bash}  
+MacOS installation:
+~~~
 sudo cpan Time::Piece XML::Simple Digest::MD5 Bio::Perl
 git clone https://github.com/tseemann/prokka.git $HOME/prokka
 $HOME/prokka/bin/prokka --setupdb
-```
-You can test your installation by typing `prokka` and it should display its help screen.
+~~~
+{: .language-bash}  
+
+You can test your installation by typing `prokka` and it should display its help screen.  
 
 
-## Installation of Anvi'o
-
-* Install a stable release of anvi’o on a Mac, Linux, or Windows-running computer (best option for end users).
-* Use anvi’o from the active development branch (best option for developers).
+#### Anvi'o installation
+Options:  
+* Install a stable release of anvi’o on a Mac, Linux, or Windows-running computer (best option for end users).  
+* Use anvi’o from the active development branch (best option for developers).  
 * Run anvi’o through its Docker containers without any installation (best option for the lazy).  
-
-
-This environment can be modified by adding or deleting tools in a file `pangenomics.yml`, 
-original pangenomics.yml file had the following content:  
-~~~
-$ cat pangenomics.yml
-~~~
-{: .bash}
-~~~
-name: pangenomics                                                                
-dependencies:                                      
-  - ncbi-genome-download 
-  - prokka
-  - anvio
-  - get_homologues
-  - pangolin
-~~~
-{: .output}
-
-Then you can create your own pangenomics Conda environment using the pangenomics.yml file.  
-~~~
-$ conda env create -f pangenomics.yml
-~~~
-{: .bash}  
 
 ## Connection to JupyterHub (Notebooks and Terminal)
 Open the JupyterHub server login site in a new tab with [this link](https://lab.matmor.unam.mx:8443/hub/login).
