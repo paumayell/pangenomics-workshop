@@ -31,7 +31,7 @@ If you are not in a Data Carpentry Workshop, the software you need is listed in 
 | Software | Version | Manual | Available for | Description |
 | -------- | ------------ | ------ | ------------- | ----------- |
 | [Prokka](https://github.com/tseemann/prokka) | 1.14.6 | [GitHub](https://github.com/tseemann/prokka#invoking-prokka) | Linux, MacOC, Windows | Bacterial, archaeal and viral assembly annotation |
-|[ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)  | version | [GitHub](https://github.com/kblin/ncbi-genome-download#usage) | Downloading genomes from the NCBI |
+|[ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)  | version | [GitHub](https://github.com/kblin/ncbi-genome-download#usage) | Available for | Downloading genomes from the NCBI |
 |[Anvi'o](https://anvio.org/)| version |[Pangenomics Workflow Manual](https://merenlab.org/2016/11/08/pangenomics-v2/)|Linux & MacOS| *multi-omics* analysis including Pangenomics|
 |[GET_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues)|version|[GitHuB](http://eead-csic-compbio.github.io/get_homologues/manual/)|Available for| Sequence clustering|
 |[PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)|version |[GitHub Wiki](https://github.com/labgem/PPanGGOLiN/wiki)|Available for| Pangenomics |
