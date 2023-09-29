@@ -46,7 +46,7 @@ Interested in teaching these materials? We have a
 > genome variation, and in consequence, one genome is not enough to 
 > describe the genetic repertoire of a species. 
 > All of the data used in this workshop can be downloaded from:
->  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6599284.svg)](https://doi.org/10.5281/zenodo.6599284) 
+>  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7620503.svg)](https://doi.org/10.5281/zenodo.7620503)
 > More information about this data is available on the [Data page](https://czirion.github.io/pangenomics-workshop/data/index.html).
 {: .prereq} 
 
