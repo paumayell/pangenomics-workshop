@@ -9,14 +9,14 @@ instances (a computer with all the required programs and files to which you will
 Except for a spreadsheet program and an internet browser, all of the command 
 line software and data used in the workshop are hosted on an Amazon 
 Machine Image (AMI). If you are signed up to take 
-a Metagenomics Data Carpentry Workshop, **you do not need to worry about setting
+a Pangenomics Data Carpentry Workshop, **you do not need to worry about setting
 up an AMI instance.** The Carpentries staff will create an instance 
 for you, which will be provided at no cost. 
 This setup is true for both self-organized and centrally-organized workshops. 
 Your Instructor will provide instructions for connecting to the AMI instance at the workshop.
 
 If you are in The Carpentries-Workshop, you do not even need to install a bash terminal; the R-studio terminal provided in the AWS-AMI is enough to run all the commands in the lesson. 
-Instead of connecting by ssh, users can simply use the R-studio AMI terminal. 
+Instead of connecting by `ssh`, users can simply use the R-studio AMI terminal. 
 
 This lesson requires a working spreadsheet program. 
 If you don't have a spreadsheet program already, you can use LibreOffice. 
@@ -30,12 +30,11 @@ If you are not in a Data Carpentry Workshop, the software you need is listed in 
 
 | Software | Version | Manual | Available for | Description |
 | -------- | ------------ | ------ | ------------- | ----------- |
-| [Prokka](https://github.com/tseemann/prokka) | 1.14.6 | [Link](https://github.com/tseemann/prokka) | Linux, MacOC, Windows | Bacterial, archaeal and viral assembly annotation |
-| -------- | ------------ | ------ | ------------- | ----------- |
-|[ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) |version |help link|A tool for donwload genomes of certain taxa.|
-|[anvio](https://anvio.org/)|version |Link|Linux & MacOS| Tool for assemblies|
-|[get_homologues](https://github.com/smdabdoub/kraken-biom)|version|[help](http://eead-csic-compbio.github.io/get_homologues/manual/)|Available for|Tool to calculate pangenomes|
-|[pangolin](https://github.com/labgem/PPanGGOLiN)|version |[help](https://github.com/labgem/PPanGGOLiN)|Available for|Tool to check completeness and contamination in MAGs |
+| [Prokka](https://github.com/tseemann/prokka) | 1.14.6 | [GitHub](https://github.com/tseemann/prokka#invoking-prokka) | Linux, MacOC, Windows | Bacterial, archaeal and viral assembly annotation. |
+|[ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) |version |[GitHub](https://github.com/kblin/ncbi-genome-download#usage)| Downloading genomes from the NCBI.|
+|[Anvi'o](https://anvio.org/)|version |[Pangenomics Workflow Manual](https://merenlab.org/2016/11/08/pangenomics-v2/)|Linux & MacOS| *multi-omics* analysis including Pangenomics.|
+|[GET_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues)|version|[GitHuB](http://eead-csic-compbio.github.io/get_homologues/manual/)|Available for| Sequence clustering.|
+|[PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)|version |[GitHub Wiki](https://github.com/labgem/PPanGGOLiN/wiki)|Available for| Pangenomics.|
 
 
 ### Option A: Using the lessons with Amazon Web Services (AWS)
