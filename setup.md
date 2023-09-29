@@ -132,7 +132,7 @@ To make a [Conda](https://conda.io/projects/conda/en/latest/index.html) environm
 > See the video tutorial, [installing Miniconda3 on WSL Ubuntu](https://youtu.be/owQgZoE-GrY)
 {: .solution}  
 
-#### NCBI-genome-download installation
+#### **NCBI-genome-download installation**
 
 There are two ways to install this package. The first one is with `pip`. It is recommended to upgrade the `pip` version to the newest one.
 Pip installation:
@@ -151,7 +151,7 @@ conda install -c bioconda ncbi-genome-download
 {: .language-bash}  
 
 
-#### Prokka installation
+#### **Prokka installation**
 
 Conda installation:
 If you use [Conda](https://conda.io/docs/install/quick.html)
@@ -171,7 +171,7 @@ $HOME/prokka/bin/prokka --setupdb
 You can test your installation by typing `prokka` and it should display its help screen.  
 
 
-#### Anvi'o installation
+#### **Anvi'o installation**
 Options:  
 * Install a stable release of anvi’o on a Mac, Linux, or Windows-running computer (best option for end users).  
 * Use anvi’o from the active development branch (best option for developers).  
