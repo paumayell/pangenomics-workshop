@@ -11,6 +11,7 @@ Zenodo link:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6636296.svg)](
 Overview page of the Pangenomics Workshop that comprises the lessons:
 
 - [Introduction to the Command Line for Pangenome Analysis in Prokaryotes](https://czirion.github.io/shell-pangenomics/) [Repository](https://github.com/Czirion/shell-pangenomics/)
+- [Introduction to Python](https://czirion.github.io/pangenomics-python/) [Repository](https://github.com/Czirion/pangenomics-python)
 - [Pangenome Analysis in Prokaryotes](https://paumayell.github.io/pangenomics/) [Repository](https://github.com/paumayell/pangenomics/)
 
 ## Code of Conduct
